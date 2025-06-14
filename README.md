@@ -5,6 +5,7 @@ Welcome to `js-exercise`, a collection of JavaScript examples and mini-projects 
 ## 🧪 Current Projects
 
 - [Restaurant Ordering & Review System](https://github.com/<your-username>/js-exercise/tree/restaurant-ordering-review-system)  – A system to place orders, apply discounts, generate reports, and manage reviews.
+- [TodoApp](https://github.com/mehedibu2013/javascript-examples/tree/main/toDO) - A simple command-line to-do list application.
 
 ## 🧰 Features Demonstrated
 
